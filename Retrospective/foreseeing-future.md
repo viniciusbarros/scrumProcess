@@ -15,3 +15,8 @@ Based on that, create the Scrum Team Backlog:
 - Save the list in a separated backlog (the **Scrum Team Backlog**);
 - One by one, try to improve/remove the identified barriers during sprint;
 - Keep the team updated;
+
+## Expected Results
+- To have team members knowing you, Scrum Master, are on their side;
+- Increase of respect and partnership between SM and team;
+- As you get rid of the issues, the team will happier and more confortable to work in future sprints;
