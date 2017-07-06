@@ -26,25 +26,54 @@
 - **Team member** - Plan and Work on their tasks
 - **Scrum Master** - Remove team impediments, prevent
 
+# Definitions
+
+## Story READY
+- Story with precise description
+- Clear acceptance criteria
+- When the team can easily estimate effort involved
+- When the estimate means it can be completed in a single sprint
+
+## DONE
+
+### For Task
+A task is DONE, when it you can say all of the bellow:
+- its objective is met
+- There is no more work needed to be developed on it
+
+### For Story
+A Story is DONE, when it you can say all of the bellow:
+- There is no more work or tasks that have to be done
+- All of its acceptance criteria have been achieved
+
 
 # Ceremonies
 
 ## Daily Standup
+Quick meeting (max of 15 min) in front of the wall, where team members share with the team what they did the day before, what they are going to do today and if they have any blockers or useful information to share.
+
 ### Pros
 - Gives team overview of status of the work you're Doing.
 - Notify team about blockers
 - Create a daily goal for your self
 
-### Cons
-
 ## MidSprint checkup
+Quick meeting in front of the wall, where team check all stories on the sprint and see how the progress is going, and if they still think they will be able to delivery the story on time.
 
 ### Pros
 - See if we are on track
 - Identify impediments and "Fail fast"
-### Cons
+
 
 ## Backlog Refinement / Grooming
+Meeting (up to 2 hours), where we define if items are ready to be worked on. Steps:
+
+- Product Owner explain the stories for team
+- Team ask questions and clear any possible doubts;
+- If story is clear enough, and "READY", team measure it in Story Points;
+- Story goes to "Refined Items" backlog
+
+
 ### Pros
 - Measure stories that can be included in future sprint
 - See if they are READY, so we can work on them
@@ -54,6 +83,10 @@
 - Can get long, if whole team is not focused
 
 ## Sprint Planning
+Meeting (up to 2 hours), where team agree and add refined items to the next sprint.
+The items will be prioritized by PO.
+Sometimes team may need to refine a few new items, that could have appeared between Backlog Refinement and Sprint Planning.
+
 ### Pros
 - Team has ability to decide what load of work they can take
 - Team is open to discuss who is going to do each story or task of it
@@ -61,8 +94,9 @@
 - Can get boring if you're not involved in most of the stories
 - Can get long, if whole team is not focused
 
-
 ## Sprint Review / Demo
+Meeting where team members show what they developed in current sprint. External people may want to join and see the team achievements.
+
 ### Pros
 - We show the things we developed this sprint
 - Boost confidence and brings feeling of "Mission accomplished"
@@ -71,6 +105,10 @@
 - Can be boring (or long) if presentation is too technical
 
 ## Sprint Retrospective / Team analysing previous sprint
+Meeting where team discuss their sprint process.
+- What did we do well?
+- What did we do wrong?
+- Suggestions?
 
 ### Pros
 - Increase confidence between members
@@ -81,7 +119,8 @@
 - Team member taking feedback as something personal
 
 ## New - Final check
-### Description
+In order to guarantee request VS delivery, we are introducing this new step in or Agile Process.
+
 #### 1) During Sprint, as team member is developing the story:
 - S/he put in ticket what from the acceptance criteria s/he thinks has been met
 
